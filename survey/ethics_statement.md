@@ -1,6 +1,6 @@
 # Ethics Statement (Anonymized)
 
-This research project received ethical approval from the relevant institutional review board prior to data collection. All participants provided informed consent, and participation was entirely voluntary.
+This research project received ethical approval from the relevant institutional ethics committee before data collection. All participants provided informed consent, and participation was entirely voluntary.
 
 No personally identifiable information was collected as part of the survey. The data has been anonymized and is shared here for academic and non-commercial use only.
 
