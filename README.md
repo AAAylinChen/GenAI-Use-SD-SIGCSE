@@ -14,12 +14,11 @@ This repository is shared as part of a double-blind submission. Author identitie
 │ └── clean-data.xlsx
 │
 ├── survey/ # Questionnaire and structure
-│ ├── survey_questions.pdf
-│ └── ethics_statement.md
+│ ├── survey-questions.pdf
+│ └── ethics-statement.md
 │
 ├── analysis/ # Stata scripts and outputs
-│ ├── analysis_code.do
-│ └── analysis_outputs
+│ └── analysis-code.do
 │
 ├── LICENSE # CC BY 4.0 license
 └── README.md # Project description and instructions
