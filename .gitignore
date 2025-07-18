@@ -1,0 +1,35 @@
+# ----------------------------------------
+# Stata
+# ----------------------------------------
+*.log
+*.smcl
+*.gph
+*.tmp
+*.old
+*.save
+*.stpr
+
+# ----------------------------------------
+# System / temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----------------------------------------
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# ----------------------------------------
+# Jupyter or Python (if used)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# ----------------------------------------
+# R (if used)
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
