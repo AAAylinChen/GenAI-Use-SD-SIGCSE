@@ -18,7 +18,7 @@ This repository is shared as part of a double-blind submission. Author identitie
 │ └── ethics-statement.md
 │
 ├── analysis/ # Stata scripts and outputs
-│ └── analysis-code.do
+│ └── ordinal-regression.do
 │
 ├── LICENSE # CC BY 4.0 license
 └── README.md # Project description and instructions
