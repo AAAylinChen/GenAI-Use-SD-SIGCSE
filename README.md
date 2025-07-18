@@ -11,7 +11,7 @@ This repository is shared as part of a double-blind submission. Author identitie
 .
 ├── data/ # Raw and cleaned survey responses
 │ ├── raw-data.csv
-│ └── clea-data.xlsx
+│ └── clean-data.xlsx
 │
 ├── survey/ # Questionnaire and structure
 │ ├── survey_questions.pdf
