@@ -7,27 +7,23 @@ This repository is shared as part of a double-blind submission. Author identitie
 ---
 
 ##  Repository Contents
+```
 .
 ├── data/ # Raw and cleaned survey responses
 │ ├── raw_responses.csv
-│ ├── cleaned_data.dta
-│ └── data_dictionary.md
+│ └── cleaned_data.dta
 │
 ├── survey/ # Questionnaire and structure
 │ ├── survey_questions.pdf
-│ ├── survey_structure.md
 │ └── ethics_statement.md
 │
 ├── analysis/ # Stata scripts and outputs
 │ ├── analysis_code.do
-│ ├── analysis_outputs/
-│ │ ├── tables/
-│ │ └── figures/
-│ └── model_notes.md
+│ └── analysis_outputs
 │
 ├── LICENSE # CC BY 4.0 license
 └── README.md # Project description and instructions
-
+```
 
 ---
 
