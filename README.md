@@ -28,7 +28,7 @@ This repository is shared as part of a double-blind submission. Author identitie
 
 ## Description
 
-The dataset includes **94 valid responses** across three stakeholder groups:
+The dataset includes **131 responses (94 valid)** across three stakeholder groups:
 - **Students** (n = 65)
 - **Educators** (n = 25)
 - **Professional developers** (n = 47)
