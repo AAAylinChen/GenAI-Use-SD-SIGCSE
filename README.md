@@ -33,7 +33,7 @@ The dataset includes **131 responses (94 valid)** across three stakeholder group
 - **Educators** (n = 25)
 - **Professional developers** (n = 47)
 
-Participants responded to Likert-scale items， multiple choice and open-ended questions regarding GenAI usage frequency, context, perceived benefits and risks, institutional support, and ethical concerns.
+Participants responded to Likert-scale items， multiple-choice questions, and open-ended questions regarding GenAI usage frequency, context, perceived benefits and risks, institutional support, and ethical concerns.
 
 Analysis was conducted using **Stata**, using ordered logit model (ologit) and generalized ordered logit model (gologit2) for role-based comparisons across stakeholder groups.
 
