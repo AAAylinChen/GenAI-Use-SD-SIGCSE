@@ -1,4 +1,6 @@
-# Work-Integrated Learning (WIL) Use Scenario with GenAI Integration  
+# Work-Integrated Learning (WIL) Use Scenario with Three-Layer Framework  
+
+[View Three-Layer Framework](figures/THREE-LAYERS.pdf)
 
 Work-Integrated Learning (WIL) provides a practical domain for applying the three-layer ecosystem framework. In this setting, students engage in authentic tasks that resemble professional workflows, while developers or mentors evaluate and support their performance.  
 
