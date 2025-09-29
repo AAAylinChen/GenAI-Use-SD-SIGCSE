@@ -30,10 +30,8 @@ The evaluation focuses on **Layer 3 interactions** between students and develope
 - This creates a **bidirectional loop** where student performance and developer mentorship can both be measured, ensuring that GenAI integration in WIL tasks is transparent, ethical, and transferable to industry contexts.  
 ---
 
-##Evaluation with Tick-box Rubric  
+## Evaluation with Tick-box Rubric  
 This rubric illustrates how **Layer 3 verbs** can be operationalized into a practical evaluation of Student–Developer interactions in WIL tasks.  
-
----
 
 ### Student Evaluation  
 
