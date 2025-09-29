@@ -7,6 +7,12 @@ As shown in Figure 1, **Layer 3** of the ecosystem framework focuses on cross-ro
 
 These verbs can be used in **tick-box, Likert scale, or rubric-style assessments** to measure the effectiveness of AI-enhanced teaching, learning, and professional practice.
 
+The following sections provide three concrete scenarios that illustrate how **teachers, students, and developers** interact within the proposed framework. Each scenario focuses on a specific domain of practice, showing how the verbs in **Layer 3 interactions** can be applied and evaluated in real contexts.  
+
+- [1. Work-Integrated Learning (Student ↔ Developer)](## 1-Work-Integrated-Learning-(WIL)-Use-Scenario-(Student ↔ Developer))  
+- [2. Classroom Integration (Teacher ↔ Student)](#2-classroom-integration-teacher--student)  
+- [3. Collaboration & Communication (Teacher ↔ Developer)](#3-collaboration--communication-teacher--developer)  
+
 ---
 
 ## 1. Work-Integrated Learning (WIL) Use Scenario (Student ↔ Developer)
