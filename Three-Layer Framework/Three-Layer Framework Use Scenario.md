@@ -57,7 +57,7 @@ This rubric illustrates how **Layer 3 verbs** can be operationalized into a prac
   - [ ] Student revises GenAI use based on mentor feedback  
   - [ ] Prompts or strategies show improvement  
   - [ ] Outputs demonstrate meaningful refinement  
-
+---
 #### Developer/Mentor Evaluation  
 
 - **Show**
