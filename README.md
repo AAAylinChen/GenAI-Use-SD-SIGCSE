@@ -12,13 +12,19 @@ This repository is shared as part of a double-blind submission. Author identitie
 ├── data/ # Raw and cleaned survey responses
 │ ├── raw-data.csv
 │ ├── clean-data.xlsx
-│ └── ordinal-regression.csv 
+│ └── ordinal-regression.csv
+│
 ├── survey/ # Questionnaire and structure
 │ ├── survey-questions.pdf
 │ └── ethics-statement.md
 │
 ├── analysis/ # Stata scripts and outputs
 │ └── ordinal-regression.do
+│
+├──Three-Layer Framework/ # Framework and use scenarios 
+│ ├── THREE-LAYERS.pdf
+│ ├── THREE-LAYERS.png
+│ └── Three-Layer Framework Use Scenario.md
 │
 ├── LICENSE # CC BY 4.0 license
 └── README.md # Project description and instructions
