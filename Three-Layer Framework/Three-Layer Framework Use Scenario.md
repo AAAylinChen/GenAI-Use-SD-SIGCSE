@@ -207,7 +207,7 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
   - [ ] Seeks clarification on GenAI’s role in the task  
 
 - **Inform**  
-  - [ ] Provides feedback on uthe sefulness of AI-integrated materials  
+  - [ ] Provides feedback on the usefulness of AI-integrated materials  
   - [ ] Suggests improvements for task design or guidance  
   - [ ] Reflects on how GenAI affects their learning process  
 
@@ -236,7 +236,7 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
 
 ---
 
-## 3.Collaboration & Communication Use Scenario (Teacher ↔ Developer)
+## 3. Collaboration & Communication Use Scenario (Teacher ↔ Developer)
 
 Collaboration and communication form the backbone of aligning education with industry expectations. In this domain, developers articulate evolving workplace practices and skill requirements, while teachers adapt and refine curricula to prepare students accordingly. The interaction ensures that soft skills—such as teamwork, communication, and responsible AI use—are integrated into both teaching and professional workflows.  
 
