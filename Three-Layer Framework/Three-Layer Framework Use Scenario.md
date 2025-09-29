@@ -11,7 +11,7 @@ The following sections provide three concrete scenarios that illustrate how **te
 
 - [1. Work-Integrated Learning (Student ↔ Developer)](#1-work-integrated-learning-wil-use-scenario-student--developer)  
 - [2. Classroom Integration (Teacher ↔ Student)](#2-classroom-integration-use-scenario-teacher--student)  
-- [3. Collaboration & Communication (Teacher ↔ Developer)](#3-project-delivery-use-scenario-teacher--developer)
+- [3. Project Delivery (Teacher ↔ Developer)](#3-project-delivery-use-scenario-teacher--developer)
 
 ---
 
