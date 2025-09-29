@@ -5,7 +5,7 @@
 
 ---
 
-Layer 3 of the ecosystem framework focuses on cross-role interactions between teachers, students, and developers. Each relationship (Teacher–Student, Student–Developer, Teacher–Developer) is defined by a set of verbs that serve as operational indicators. These verbs can be used in rubrics, tick-box evaluations, or advisory reviews to measure the effectiveness of AI-enhanced teaching, learning, and professional practice.
+Layer 3 of the ecosystem framework focuses on cross-role interactions between teachers, students, and developers. Each relationship (Teacher–Student, Student–Developer, Teacher–Developer) is defined by a set of verbs that serve as operational indicators. These verbs can be used in **tick-box, Likert scale, or rubric-style assessments** to measure the effectiveness of AI-enhanced teaching, learning, and professional practice.
 
 ---
 
@@ -94,7 +94,7 @@ This rubric illustrates how **Layer 3 verbs** can be operationalized into a prac
   - [ ] Student revises GenAI use based on mentor feedback  
   - [ ] Prompts or strategies show improvement  
   - [ ] Outputs demonstrate meaningful refinement  
----
+
 #### Developer/Mentor Evaluation  
 
 - **Show**
@@ -201,11 +201,10 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
   - [ ] Seeks clarification on GenAI’s role in the task  
 
 - **Inform**  
-  - [ ] Provides feedback on usefulness of AI-integrated materials  
+  - [ ] Provides feedback on uthe sefulness of AI-integrated materials  
   - [ ] Suggests improvements for task design or guidance  
   - [ ] Reflects on how GenAI affects their learning process  
 
----
 
 #### Teacher Evaluation  
 
