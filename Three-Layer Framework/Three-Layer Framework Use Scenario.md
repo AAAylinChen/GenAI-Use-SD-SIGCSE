@@ -77,4 +77,4 @@ This rubric illustrates how **Layer 3 verbs** can be operationalized into a prac
   - [ ] Reinforces sustainable GenAI practices for long-term growth  
   - [ ] Promotes balance between efficiency and deep learning  
   - [ ] Encourages independence and professional judgment alongside GenAI  
-
+---
