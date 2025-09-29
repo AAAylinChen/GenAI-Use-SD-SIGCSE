@@ -106,6 +106,11 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
 
 <table>
   <tr>
+    <td><b>Interaction</b></td>
+     <td><b>Phase (Verb)</b></td>
+     <td><b>Observable Behavior</b></td>
+  </tr>
+  <tr>
     <td rowspan="4"><b>Teacher → Student</b></td>
     <td><b>Model</b></td>
     <td><i>Teacher:</i> Demonstrates responsible GenAI use (e.g., generating teaching examples, prompts).</td>
