@@ -256,7 +256,7 @@ The evaluation focuses on **Layer 3 interactions** between teachers and develope
   
   <tr> <td rowspan="4"><b>Developer → Teacher</b></td> 
     <td><b>Propose</b></td>
-    <td><i>Developer:</i> Introduces AI-supported project practices (e.g., AI-assisted sprint planning, testing, documentation).</td>
+    <td><i>Developer:</i> Proposes AI-supported project practices and identifies authentic problems that can be addressed with GenAI (e.g., sprint planning, testing, documentation).</td>
   </tr> 
   <tr>
     <td><b>Verify</b></td>
