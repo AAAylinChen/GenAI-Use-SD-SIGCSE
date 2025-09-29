@@ -102,7 +102,46 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
 | Student → Teacher   | **Inform**       | *Student:* Provides feedback on AI-integrated materials, informing future teaching design. |
 
 ---
+### Teacher ↔ Student Interaction Framework in Classroom Integration  
 
+<table>
+  <tr>
+    <td rowspan="4"><b>Teacher → Student</b></td>
+    <td><b>Model</b></td>
+    <td><i>Teacher:</i> Demonstrates responsible GenAI use (e.g., generating teaching examples, prompts).</td>
+  </tr>
+  <tr>
+    <td><b>Reflect</b></td>
+    <td><i>Teacher:</i> Shares reflections on opportunities and risks of GenAI in teaching contexts.</td>
+  </tr>
+  <tr>
+    <td><b>Scaffold</b></td>
+    <td><i>Teacher:</i> Designs structured GenAI tasks, provides checkpoints and guiding resources.</td>
+  </tr>
+  <tr>
+    <td><b>Feedback</b></td>
+    <td><i>Teacher:</i> Gives formative feedback on how students apply GenAI in assignments.</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4"><b>Student → Teacher</b></td>
+    <td><b>Practice</b></td>
+    <td><i>Student:</i> Applies GenAI in guided tasks, experimenting with prompts and outputs.</td>
+  </tr>
+  <tr>
+    <td><b>Evaluate</b></td>
+    <td><i>Student:</i> Critically evaluates AI outputs against accuracy, relevance, and task goals.</td>
+  </tr>
+  <tr>
+    <td><b>Question</b></td>
+    <td><i>Student:</i> Raises questions about GenAI outputs, ethics, or limitations during class tasks.</td>
+  </tr>
+  <tr>
+    <td><b>Inform</b></td>
+    <td><i>Student:</i> Provides feedback on AI-integrated materials, informing future teaching design.</td>
+  </tr>
+</table>
+---
 ### Practical Application  
 
 - **Students** are evaluated on how effectively they *Practice* GenAI use, *Evaluate* outputs, *Question* assumptions, and *Inform* teachers about their learning experience.  
