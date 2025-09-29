@@ -1,15 +1,17 @@
-# Work-Integrated Learning (WIL) Use Scenario with Three-Layer Framework  
+# Use Scenario with Three-Layer Framework  
 
 ![View Three-Layer Framework](THREE-LAYERS.png)
-*Figure 1. Three-layer ecosystem framework for AI-enhanced software engineering education and professional practice.[Download full PDF](THREE-LAYERS.pdf) *
+*Figure 1. Three-layer ecosystem framework for AI-enhanced software engineering education and professional practice.* [Download full PDF](THREE-LAYERS.pdf) 
 
+---
+## Work-Integrated Learning (WIL) Use Scenario
 Work-Integrated Learning (WIL) provides a practical domain for applying the three-layer ecosystem framework. In this setting, students engage in authentic tasks that resemble professional workflows, while developers or mentors evaluate and support their performance.  
 
 The evaluation focuses on **Layer 3 interactions** between students and developers. Each verb (e.g., *Apply, Demonstrate, Reflect, Iterate, Show, Evaluate, Guide, Foster*) serves as an observable indicator of how GenAI is used and scaffolded. These verbs can be operationalized into **tick-box or rubric-style assessments** for both students and developers, ensuring that AI-enhanced learning outcomes are measurable and aligned with workplace expectations.  
 
 ---
 
-## Student ↔ Developer Interaction Framework in WIL  
+### Student ↔ Developer Interaction Framework in WIL  
 
 | **Interaction**    | **Phase (Verb)** | **Observable Student Behavior**                                   | **Observable Developer/Mentor Behavior**                          |
 |---------------------|------------------|------------------------------------------------------------------|-------------------------------------------------------------------|
@@ -24,17 +26,17 @@ The evaluation focuses on **Layer 3 interactions** between students and develope
 
 ---
 
-## Practical Application  
+### Practical Application  
 
 - **Students** are assessed not only on the correctness of outputs but also on *how* they integrate GenAI into their workflow (*Apply, Reflect, Demonstrate, Iterate*).  
 - **Developers/Mentors** contribute by *Showing* authentic use cases, *Evaluating* student outputs, *Guiding* improvements, and *Fostering* responsible long-term practices.  
 - This creates a **bidirectional loop** where student performance and developer mentorship can both be measured, ensuring that GenAI integration in WIL tasks is transparent, ethical, and transferable to industry contexts.  
 ---
 
-## Evaluation with Tick-box Rubric  
+### Evaluation with Tick-box Rubric  
 This rubric illustrates how **Layer 3 verbs** can be operationalized into a practical evaluation of Student–Developer interactions in WIL tasks.  
 
-### Student Evaluation  
+#### Student Evaluation  
 
 - **Apply**
   - [ ] Student integrates GenAI into task workflow appropriately  
@@ -56,8 +58,7 @@ This rubric illustrates how **Layer 3 verbs** can be operationalized into a prac
   - [ ] Prompts or strategies show improvement  
   - [ ] Outputs demonstrate meaningful refinement  
 
----
-### Developer/Mentor Evaluation  
+#### Developer/Mentor Evaluation  
 
 - **Show**
   - [ ] Demonstrates professional GenAI workflows in practice  
