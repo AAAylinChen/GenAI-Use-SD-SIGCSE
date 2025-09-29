@@ -9,9 +9,9 @@ These verbs can be used in **tick-box, Likert scale, or rubric-style assessments
 
 The following sections provide three concrete scenarios that illustrate how **teachers, students, and developers** interact within the proposed framework. Each scenario focuses on a specific domain of practice, showing how the verbs in **Layer 3 interactions** can be applied and evaluated in real contexts.  
 
-- [1. Work-Integrated Learning (Student ↔ Developer)](https://github.com/AAAylinChen/GenAI-Use-SD/blob/main/Three-Layer%20Framework/Three-Layer%20Framework%20Use%20Scenario.md#1-work-integrated-learning-wil-use-scenario-student--developer)  
+- [1. Work-Integrated Learning (Student ↔ Developer)](#1-work-integrated-learning-wil-use-scenario-student--developer)  
 - [2. Classroom Integration (Teacher ↔ Student)](#2-classroom-integration-use-scenario-teacher--student)  
-- [3. Collaboration & Communication (Teacher ↔ Developer)](#3-collaboration--communication-teacher--developer)  
+- [3. Collaboration & Communication (Teacher ↔ Developer)](#3-collaboration--communication-use-scenario-teacher--developer)
 
 ---
 
@@ -236,7 +236,7 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
 
 ---
 
-# Collaboration & Communication Use Scenario (Teacher ↔ Developer)
+## 3.Collaboration & Communication Use Scenario (Teacher ↔ Developer)
 
 Collaboration and communication form the backbone of aligning education with industry expectations. In this domain, developers articulate evolving workplace practices and skill requirements, while teachers adapt and refine curricula to prepare students accordingly. The interaction ensures that soft skills—such as teamwork, communication, and responsible AI use—are integrated into both teaching and professional workflows.  
 
@@ -244,7 +244,7 @@ The evaluation focuses on **Layer 3 interactions** between teachers and develope
 
 ---
 
-## Teacher ↔ Developer Interaction Framework  
+### Teacher ↔ Developer Interaction Framework  
 
 <table>
   <tr>
@@ -292,7 +292,7 @@ The evaluation focuses on **Layer 3 interactions** between teachers and develope
 
 ---
 
-## Practical Application  
+### Practical Application  
 
 - **Developers** contribute workplace insights by *Proposing* emerging practices, *Verifying* content against standards, offering *Feedback*, and engaging in *Co-evolution* through long-term collaboration.  
 - **Teachers** adapt by *Translating* professional needs into pedagogy, *Constructing* curricula with AI integration, *Aligning* learning outcomes with industry expectations, and *Collaborating* on shared initiatives.  
@@ -300,9 +300,9 @@ The evaluation focuses on **Layer 3 interactions** between teachers and develope
 
 ---
 
-## Evaluation with Tick-box Rubric  
+### Evaluation with Tick-box Rubric  
 
-### Developer Evaluation  
+#### Developer Evaluation  
 
 - **Propose**
   - [ ] Developer introduces relevant GenAI use cases or practices  
@@ -324,7 +324,7 @@ The evaluation focuses on **Layer 3 interactions** between teachers and develope
   - [ ] Joint work results in sustainable teaching–industry links  
   - [ ] Evidence of iterative refinement over time  
 
-### Teacher Evaluation  
+#### Teacher Evaluation  
 
 - **Translate**
   - [ ] Teacher converts workplace needs into clear learning outcomes  
