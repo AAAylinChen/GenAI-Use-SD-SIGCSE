@@ -11,9 +11,10 @@ The following sections provide three concrete scenarios that illustrate how **te
 
 - [1. Work-Integrated Learning (Student ↔ Developer)](#1-work-integrated-learning-wil-use-scenario-student--developer)  
 - [2. Classroom Integration (Teacher ↔ Student)](#2-classroom-integration-use-scenario-teacher--student)  
-- [3. Collaboration & Communication (Teacher ↔ Developer)](#3-collaboration--communication-use-scenario-teacher--developer)
+- [3. Collaboration & Communication (Teacher ↔ Developer)](#3-project-delivery-use-scenario-teacher--developer)
 
 ---
+
 
 ## 1. Work-Integrated Learning (WIL) Use Scenario (Student ↔ Developer)
 Work-Integrated Learning (WIL) provides a practical domain for applying the three-layer ecosystem framework. In this setting, students engage in authentic tasks that resemble professional workflows, while developers or mentors evaluate and support their performance.  
@@ -101,7 +102,7 @@ This rubric illustrates how **Layer 3 verbs** can be operationalized into a prac
   - [ ] Prompts or strategies show improvement  
   - [ ] Outputs demonstrate meaningful refinement  
 
-#### Developer/Mentor Evaluation  
+#### Developer Evaluation  
 
 - **Show**
   - [ ] Demonstrates professional GenAI workflows in practice  
@@ -230,73 +231,72 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
   - [ ] Ensures tasks encourage higher-order thinking, not shortcuts  
 
 - **Feedback**  
-  - [ ] Gives formative comments on student GenAI outputs and process  
+  - [ ] Gives formative comments on student GenAI outputs and processes  
   - [ ] Highlights effective practices and areas for improvement  
   - [ ] Reinforces responsible and ethical GenAI habits  
 
 ---
 
-## 3. Collaboration & Communication Use Scenario (Teacher ↔ Developer)
+## 3. Project Delivery Use Scenario (Teacher ↔ Developer)
 
-Collaboration and communication form the backbone of aligning education with industry expectations. In this domain, developers articulate evolving workplace practices and skill requirements, while teachers adapt and refine curricula to prepare students accordingly. The interaction ensures that soft skills—such as teamwork, communication, and responsible AI use—are integrated into both teaching and professional workflows.  
+Project delivery represents a critical domain for applying the three-layer ecosystem framework. In this setting, developers share workplace practices of AI-supported delivery, while teachers adapt and refine curricula to prepare students for these professional standards. The interaction ensures that academic projects simulate authentic workplace delivery cycles.
 
-The evaluation focuses on **Layer 3 interactions** between teachers and developers. Each verb (*Propose, Verify, Feedback, Co-evolve, Translate, Construct, Align, Collaborate*) serves as an observable indicator of how collaboration around GenAI practices is operationalized between academia and industry.  
+The evaluation focuses on **Layer 3 interactions** between teachers and developers. Each verb (e.g., Propose, Verify, Feedback, Co-evolve, Translate, Construct, Align, Collaborate) serves as an observable indicator of how project delivery practices are co-shaped in AI-enhanced contexts.
 
 ---
 
-### Teacher ↔ Developer Interaction Framework  
+### Teacher ↔ Developer Interaction Framework in Project Delivery
 
-<table>
-  <tr>
-    <td><b>Interaction</b></td>
-    <td><b>Phase (Verb)</b></td>
-    <td><b>Observable Behavior</b></td>
-  </tr>
-
-  <tr>
-    <td rowspan="4"><b>Developer → Teacher</b></td>
+<table> 
+  <tr> 
+    <td><b>Interaction</b></td> 
+    <td><b>Phase (Verb)</b></td> 
+    <td><b>Observable Behavior</b></td> 
+  </tr> 
+  
+  <tr> <td rowspan="4"><b>Developer → Teacher</b></td> 
     <td><b>Propose</b></td>
-    <td><i>Developer:</i> Suggests new GenAI-related practices, tools, or skills relevant to workplace needs.</td>
-  </tr>
+    <td><i>Developer:</i> Introduces AI-supported project practices (e.g., AI-assisted sprint planning, testing, documentation).</td>
+  </tr> 
   <tr>
     <td><b>Verify</b></td>
-    <td><i>Developer:</i> Reviews and validates whether course content reflects industry standards and workflows.</td>
+    <td><i>Developer:</i> Reviews course projects to confirm they mirror professional delivery workflows with AI.</td>
+  </tr> 
+  <tr> 
+    <td><b>Feedback</b></td> 
+    <td><i>Developer:</i> Provides structured feedback on project outputs, highlighting quality and responsible AI integration.</td> 
+  </tr> 
+  <tr> 
+    <td><b>Co-evolve</b></td> 
+    <td><i>Developer:</i> Collaborates with teachers to co-design AI-enhanced project tasks simulating workplace cycles.</td>
   </tr>
-  <tr>
-    <td><b>Feedback</b></td>
-    <td><i>Developer:</i> Provides structured feedback on curricula and teaching strategies with concrete examples.</td>
-  </tr>
-  <tr>
-    <td><b>Co-evolve</b></td>
-    <td><i>Developer:</i> Collaborates in long-term partnerships, co-developing case studies, modules, or projects.</td>
-  </tr>
-
-  <tr>
-    <td rowspan="4"><b>Teacher → Developer</b></td>
-    <td><b>Translate</b></td>
-    <td><i>Teacher:</i> Translates industry requirements into teachable skills, learning outcomes, and GenAI-integrated tasks.</td>
-  </tr>
-  <tr>
+  <tr> 
+    <td rowspan="4"><b>Teacher → Developer</b></td> 
+    <td><b>Translate</b></td> 
+    <td><i>Teacher:</i> Converts industry delivery norms into teachable project assignments.</td>
+  </tr> 
+  <tr> 
     <td><b>Construct</b></td>
-    <td><i>Teacher:</i> Builds structured curricula and assessments that integrate developer input into academic design.</td>
-  </tr>
-  <tr>
+    <td><i>Teacher:</i> Designs structured project workflows embedding AI use (planning, coding, reporting).</td>
+  </tr> 
+  <tr> 
     <td><b>Align</b></td>
-    <td><i>Teacher:</i> Ensures course outcomes align with evolving professional standards, especially AI-enhanced workflows.</td>
+    <td><i>Teacher:</i> Ensures outcomes reflect industry delivery standards, including AI-supported processes.</td> 
   </tr>
   <tr>
     <td><b>Collaborate</b></td>
-    <td><i>Teacher:</i> Engages with developers in joint initiatives (guest lectures, advisory boards, shared projects).</td>
-  </tr>
-</table>
+    <td><i>Teacher:</i> Partners with developers in capstone projects, case studies, or showcases with AI-enhanced delivery.</td>
+  </tr> 
+  </table>
 
 ---
 
 ### Practical Application  
 
-- **Developers** contribute workplace insights by *Proposing* emerging practices, *Verifying* content against standards, offering *Feedback*, and engaging in *Co-evolution* through long-term collaboration.  
-- **Teachers** adapt by *Translating* professional needs into pedagogy, *Constructing* curricula with AI integration, *Aligning* learning outcomes with industry expectations, and *Collaborating* on shared initiatives.  
-- This creates a **bidirectional loop** where workplace realities continuously inform teaching, while academic innovation contributes structured, ethical, and pedagogically sound approaches to GenAI-enhanced practice.  
+- **Developers** contribute by *Proposing* AI-supported practices, *Verifying* classroom projects against delivery workflows, offering *Feedback* on outputs, and engaging in *Co-evolution* project-based tasks with teachers.  
+- **Teachers** adapt by *Translating* industry practices into assignments, *Constructing* structured delivery workflows, *Aligning* learning outcomes with industry expectations, and *Collaborating* on WIL, capstones or showcases.  
+- This creates a **bidirectional loop**,  ensuring students experience AI-enhanced project delivery both as academic training and as preparation for professional contexts.
+
 
 ---
 
@@ -305,43 +305,43 @@ The evaluation focuses on **Layer 3 interactions** between teachers and develope
 #### Developer Evaluation  
 
 - **Propose**
-  - [ ] Developer introduces relevant GenAI use cases or practices  
-  - [ ] Proposed practices are realistic and transferable to teaching contexts  
-  - [ ] Contributions highlight both technical and ethical considerations  
+  - [ ] Shares AI-supported delivery practices relevant to industry projects
+  - [ ] Provides concrete, transferable use cases for academic projects
+  - [ ] Highlights both the benefits and risks of AI integration 
 
 - **Verify**
-  - [ ] Developer reviews curriculum for alignment with current workflows  
-  - [ ] Identifies gaps between academic outcomes and workplace needs  
-  - [ ] Validates the practical relevance of AI-enhanced activities  
+  - [ ] Reviews course projects against professional delivery standards
+  - [ ] Checks AI use in planning, execution, and reporting phases
+  - [ ] Confirms alignment with current industry workflows 
 
 - **Feedback**
-  - [ ] Developer provides actionable and specific curriculum suggestions  
-  - [ ] Feedback is contextualized with workplace examples  
-  - [ ] Feedback loop includes follow-up discussion with teachers  
+  - [ ] Gives actionable comments on student deliverables
+  - [ ] Addresses clarity, quality, and AI integration explicitly  
+  - [ ] Suggests improvements grounded in workplace practices
 
 - **Co-evolve**
-  - [ ] Developer participates in ongoing collaborations (case studies, projects)  
-  - [ ] Joint work results in sustainable teaching–industry links  
-  - [ ] Evidence of iterative refinement over time  
+  - [ ] Co-designs AI-enhanced project tasks with teachers  
+  - [ ] Iteratively refines tasks through collaboration
+  - [ ] Ensures tasks reflect evolving industry norms  
 
 #### Teacher Evaluation  
 
 - **Translate**
-  - [ ] Teacher converts workplace needs into clear learning outcomes  
-  - [ ] GenAI practices are contextualized for student comprehension  
-  - [ ] Translation preserves both technical and ethical dimensions  
+  - [ ] Converts workplace delivery norms into student-friendly assignments 
+  - [ ] Embeds AI tasks at an appropriate complexity level 
+  - [ ] Connects delivery practices to clear learning outcomes  
 
 - **Construct**
-  - [ ] Teacher builds assignments or modules integrating developer input  
-  - [ ] Materials scaffold AI-enhanced learning step by step  
-  - [ ] Assessments measure both output and process  
+  - [ ] Builds structured project workflows with AI-enhanced tasks
+  - [ ] Ensures balance between AI support and human reasoning  
+  - [ ] Provides checkpoints to guide responsible AI use
 
 - **Align**
-  - [ ] Teacher revises outcomes to reflect evolving industry standards  
-  - [ ] Explicit links between learning outcomes and workplace skills  
-  - [ ] Curriculum includes AI-relevant collaboration and communication skills  
-
+  - [ ] Revises outcomes to reflect industry delivery standards  
+  - [ ] Explicitly links student projects to professional expectations
+  - [ ] Integrates ethical and practical AI use in learning outcomes
 - **Collaborate**
-  - [ ] Teacher involves developers in teaching activities (guest talks, reviews)  
-  - [ ] Evidence of co-created resources or shared projects  
-  - [ ] Collaboration produces measurable benefits for both parties  
+  - [ ] Engages developers in capstones, showcases, or reviews
+  - [ ] Shares rubrics and teaching resources with developers 
+  - [ ] Evolves and co-creates learning materials and assignments with developers
+
