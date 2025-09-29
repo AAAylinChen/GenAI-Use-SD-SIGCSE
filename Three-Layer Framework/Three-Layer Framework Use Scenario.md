@@ -26,6 +26,53 @@ The evaluation focuses on **Layer 3 interactions** between students and develope
 
 ---
 
+<h3>Student ↔ Developer Interaction Framework in Work-Integrated Learning (WIL)</h3>
+
+<table>
+  <tr>
+    <td><b>Interaction</b></td>
+    <td><b>Phase (Verb)</b></td>
+    <td><b>Observable Behavior</b></td>
+  </tr>
+
+  <tr>
+    <td rowspan="4"><b>Student → Developer</b></td>
+    <td><b>Apply</b></td>
+    <td><i>Student:</i> Uses GenAI to generate solutions and integrate outputs into tasks.</td>
+  </tr>
+  <tr>
+    <td><b>Demonstrate</b></td>
+    <td><i>Student:</i> Presents GenAI-supported outputs (code, documentation, tests).</td>
+  </tr>
+  <tr>
+    <td><b>Reflect</b></td>
+    <td><i>Student:</i> Provides critical reflections on GenAI’s role, limits, and ethics.</td>
+  </tr>
+  <tr>
+    <td><b>Iterate</b></td>
+    <td><i>Student:</i> Revises GenAI use based on mentor feedback and refines outputs.</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4"><b>Developer → Student</b></td>
+    <td><b>Show</b></td>
+    <td><i>Developer:</i> Demonstrates real-world AI workflows, tools, and practices.</td>
+  </tr>
+  <tr>
+    <td><b>Evaluate</b></td>
+    <td><i>Developer:</i> Reviews student outputs against technical and ethical standards.</td>
+  </tr>
+  <tr>
+    <td><b>Guide</b></td>
+    <td><i>Developer:</i> Provides targeted advice on improving GenAI use and practices.</td>
+  </tr>
+  <tr>
+    <td><b>Foster</b></td>
+    <td><i>Developer:</i> Encourages sustainable, transferable GenAI practices for long-term growth.</td>
+  </tr>
+</table>
+
+
 ### Practical Application  
 
 - **Students** are assessed not only on the correctness of outputs but also on *how* they integrate GenAI into their workflow (*Apply, Reflect, Demonstrate, Iterate*).  
@@ -132,6 +179,7 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
   </tr>
 </table>
 ---
+
 ### Practical Application  
 
 - **Students** are evaluated on how effectively they *Practice* GenAI use, *Evaluate* outputs, *Question* assumptions, and *Inform* teachers about their learning experience.  
