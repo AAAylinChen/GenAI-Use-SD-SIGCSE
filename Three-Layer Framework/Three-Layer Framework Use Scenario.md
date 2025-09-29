@@ -9,7 +9,7 @@ These verbs can be used in **tick-box, Likert scale, or rubric-style assessments
 
 The following sections provide three concrete scenarios that illustrate how **teachers, students, and developers** interact within the proposed framework. Each scenario focuses on a specific domain of practice, showing how the verbs in **Layer 3 interactions** can be applied and evaluated in real contexts.  
 
-- [1. Work-Integrated Learning (Student ↔ Developer)](## 1-Work-Integrated-Learning-(WIL)-Use-Scenario-(Student ↔ Developer))  
+- [1. Work-Integrated Learning (Student ↔ Developer)](https://github.com/AAAylinChen/GenAI-Use-SD/blob/main/Three-Layer%20Framework/Three-Layer%20Framework%20Use%20Scenario.md#1-work-integrated-learning-wil-use-scenario-student--developer)  
 - [2. Classroom Integration (Teacher ↔ Student)](#2-classroom-integration-teacher--student)  
 - [3. Collaboration & Communication (Teacher ↔ Developer)](#3-collaboration--communication-teacher--developer)  
 
