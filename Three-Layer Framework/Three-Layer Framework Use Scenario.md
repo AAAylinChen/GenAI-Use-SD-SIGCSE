@@ -3,9 +3,8 @@
 ![View Three-Layer Framework](THREE-LAYERS.png)
 *Figure 1. Three-layer ecosystem framework for AI-enhanced software engineering education and professional practice.* [Download full PDF](THREE-LAYERS.pdf) 
 
----
-
-Layer 3 of the ecosystem framework focuses on cross-role interactions between teachers, students, and developers. Each relationship (Teacher–Student, Student–Developer, Teacher–Developer) is defined by a set of verbs that serve as operational indicators. These verbs can be used in **tick-box, Likert scale, or rubric-style assessments** to measure the effectiveness of AI-enhanced teaching, learning, and professional practice.
+As shown in Figure 1, **Layer 3** of the ecosystem framework focuses on cross-role interactions between teachers, students, and developers. Each relationship (Teacher–Student, Student–Developer, Teacher–Developer) is defined by a set of verbs that serve as operational indicators. 
+These verbs can be used in **tick-box, Likert scale, or rubric-style assessments** to measure the effectiveness of AI-enhanced teaching, learning, and professional practice.
 
 ---
 
