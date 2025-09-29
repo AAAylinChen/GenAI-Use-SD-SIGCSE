@@ -7,7 +7,7 @@
 ## Work-Integrated Learning (WIL) Use Scenario
 Work-Integrated Learning (WIL) provides a practical domain for applying the three-layer ecosystem framework. In this setting, students engage in authentic tasks that resemble professional workflows, while developers or mentors evaluate and support their performance.  
 
-The evaluation focuses on **Layer 3 interactions** between students and developers. Each verb (e.g., *Apply, Demonstrate, Reflect, Iterate, Show, Evaluate, Guide, Foster*) serves as an observable indicator of how GenAI is used and scaffolded. These verbs can be operationalized into **tick-box or rubric-style assessments** for both students and developers, ensuring that AI-enhanced learning outcomes are measurable and aligned with workplace expectations.  
+The evaluation focuses on **Layer 3 interactions** between students and developers. Each verb (e.g., *Apply, Demonstrate, Reflect, Iterate, Show, Evaluate, Guide, Foster*) serves as an observable indicator of how GenAI is used and scaffolded. These verbs can be operationalized into **tick-box, Likert scale, or rubric-style assessments** for both students and developers, ensuring that AI-enhanced learning outcomes are measurable and aligned with workplace expectations.  
 
 ---
 
@@ -39,7 +39,7 @@ This rubric illustrates how **Layer 3 verbs** can be operationalized into a prac
 #### Student Evaluation  
 
 - **Apply**
-  - [ ] Student integrates GenAI into task workflow appropriately  
+  - [ ] Student integrates GenAI into the task workflow appropriately  
   - [ ] AI-generated outputs meet task requirements  
   - [ ] Outputs are documented with clear prompts and context  
 
