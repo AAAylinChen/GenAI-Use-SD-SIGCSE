@@ -88,7 +88,6 @@ The evaluation focuses on **Layer 3 interactions** between teachers and students
 
 ---
 ### Teacher ↔ Student Interaction Framework in Classroom Integration  
-<h3>Teacher ↔ Student Interaction Framework in Classroom Integration</h3>
 
 <table>
   <thead>
