@@ -52,6 +52,7 @@ Analysis was conducted using **Stata**, using ordered logit model (ologit) and g
 1. View `survey/` to examine the questionnaire structure and ethical documentation.
 2. Load `data/cleaned_data.dta` into Stata.
 3. Run `analysis/analysis_code.do` to replicate the key statistical models.
+4. See `Three-Layer Framework/Three-Layer Framework Use Scenario.md` for practical use cases of the proposed framework.
 
 ---
 
