@@ -1,7 +1,15 @@
 # Use Scenarios with Three-Layer Framework  
 
-<img src="THREE-LAYERS.png" alt="View Three-Layer Framework" width="500"/>
-*Figure 1. Three-layer ecosystem framework for AI-enhanced software engineering education and professional practice.* [Download full PDF](THREE-LAYERS.pdf) 
+<p align="center">
+  <img src="THREE-LAYERS.png" alt="View Three-Layer Framework" width="500"/>
+</p>
+
+<p align="center">
+  <em>Figure 1. Three-layer ecosystem framework for AI-enhanced software engineering education and professional practice.</em>  
+  <br/>
+  <a href="THREE-LAYERS.pdf">Download full PDF</a>
+</p>
+
 
 As shown in Figure 1, **Layer 3** of the ecosystem framework focuses on cross-role interactions between teachers, students, and developers. Each relationship (Teacher–Student, Student–Developer, Teacher–Developer) is defined by a set of verbs that serve as operational indicators. 
 
