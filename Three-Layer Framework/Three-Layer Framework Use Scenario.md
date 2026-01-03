@@ -24,7 +24,7 @@ This framework links GenAI use at the activity level to role-specific profession
 | **Finalize** | Finalize resources with transparent AI use and reflection guidance | Finalize assignments with revisions or learning logs | Finalize deliverables with AI traces and documentation |
 | **Monitor** | Monitor student progress and adapt instruction | Monitor personal GenAI use and reflect on ethics and growth | Monitor AI performance and adjust usage |
 
-**Layer 1**(Table 1) provides an illustrative example, showing how teachers, students, and developers each incorporate GenAI into role-specific activities: teachers into teaching practice, students into learning tasks, and developers into workplace workflows. 
+**Layer 1** (Table 1) provides an illustrative example, showing how teachers, students, and developers each incorporate GenAI into role-specific activities: teachers into teaching practice, students into learning tasks, and developers into workplace workflows. 
 
 **Layer 2** expands this view to role-specific professional lifecycles, capturing how GenAI-supported tasks are embedded within broader domains of learning, teaching, and professional practice. For students, this includes course engagement, skill formation, and career preparation; for teachers, curriculum design, classroom integration, assessment, and professional development; and for developers, project delivery, continuous upskilling, and compliance with professional standards. In each case, Layer 1 task workflows operate as micro-cycles within these lifecycles, ensuring that GenAI use supports sustained competency development rather than isolated efficiency gains.
 
