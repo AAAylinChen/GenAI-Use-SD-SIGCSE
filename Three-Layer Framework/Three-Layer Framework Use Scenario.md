@@ -1,4 +1,4 @@
-# Use Scenarios with Three-Layer Framework  
+# Three-Layer Framework and Use Scenarios 
 
 <p align="center">
   <img src="THREE-LAYERS.png" alt="View Three-Layer Framework" width="500"/>
@@ -9,9 +9,26 @@
   <br/>
   <a href="THREE-LAYERS.pdf">Download full PDF</a>
 </p>
+Figure 1 demonstrates a  multi-layer framework that provides standardized yet flexible pathways for AI-enhanced learning and work.
+This framework links GenAI use at the activity level to role-specific professional lifecycles and aligns practices across education and industry.
 
+### Table 1. GenAI Usage Pipeline Across Roles
 
-As shown in Figure 1, **Layer 3** of the ecosystem framework focuses on cross-role interactions between teachers, students, and developers. Each relationship (Teacher–Student, Student–Developer, Teacher–Developer) is defined by a set of verbs that serve as operational indicators. 
+| Step | Teachers | Students | Developers |
+|------|----------|----------|------------|
+| **Identify** | Identify opportunities for authentic, ethical GenAI use in learning | Identify suitable use cases (e.g., misunderstood concepts) | Identify task needs and match them to appropriate AI tools |
+| **Engage** | Engage students in structured, purposeful AI activities | Engage with GenAI using clear prompts and context | Engage GenAI by embedding requirements and context into prompts |
+| **Evaluate** | Evaluate GenAI use based on outcomes, integrity, and reflection | Evaluate AI outputs for accuracy and relevance | Evaluate outputs against engineering standards |
+| **Optimize** | Optimize learning design and prompts for deeper interaction | Optimize prompts when outputs are insufficient | Optimize prompts under technical and business constraints |
+| **Refine** | Refine activities to enhance human judgment and post-AI work | Refine outputs through editing or restructuring | Refine outputs via standardization and integration |
+| **Finalize** | Finalize resources with transparent AI use and reflection guidance | Finalize assignments with revisions or learning logs | Finalize deliverables with AI traces and documentation |
+| **Monitor** | Monitor student progress and adapt instruction | Monitor personal GenAI use and reflect on ethics and growth | Monitor AI performance and adjust usage |
+
+**Layer 1**(Table 1) provides an illustrative example, showing how teachers, students, and developers each incorporate GenAI into role-specific activities: teachers into teaching practice, students into learning tasks, and developers into workplace workflows. 
+
+**Layer 2** expands this view to role-specific professional lifecycles, capturing how GenAI-supported tasks are embedded within broader domains of learning, teaching, and professional practice. For students, this includes course engagement, skill formation, and career preparation; for teachers, curriculum design, classroom integration, assessment, and professional development; and for developers, project delivery, continuous upskilling, and compliance with professional standards. In each case, Layer 1 task workflows operate as micro-cycles within these lifecycles, ensuring that GenAI use supports sustained competency development rather than isolated efficiency gains.
+
+**Layer 3** of the ecosystem framework focuses on cross-role interactions between teachers, students, and developers. Each relationship (Teacher–Student, Student–Developer, Teacher–Developer) is defined by a set of verbs that serve as operational indicators.
 
 These verbs can be used in **tick-box, Likert scale, or rubric-style assessments** to measure the effectiveness of AI-enhanced teaching, learning, and professional practice.
 
