@@ -9,8 +9,8 @@ This repository is shared as part of a double-blind submission. Author identitie
 ##  Repository Contents
 ```
 .
-├── data/ # Raw and cleaned survey responses
-│ ├── raw-data.csv (de-identified)
+├── data/ # Raw and cleaned survey responses (de-identified)
+│ ├── raw-data.csv 
 │ ├── clean-data.xlsx
 │ └── ordinal-regression.csv
 │
