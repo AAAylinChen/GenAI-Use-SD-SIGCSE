@@ -1,4 +1,4 @@
-# Generative AI Use in Software Engineering: Multi-Stakeholder Survey
+# Aligning GenAI Integration in Software Engineering Education and Practice: Multi-Stakeholder Survey
 
 This repository contains supporting materials for a study investigating how students, educators, and professional developers adopt and perceive Generative AI (GenAI) tools in software engineering education and practice. The study draws on an extended TAM2 framework incorporating ethical considerations, and uses a mixed-methods survey design.
 
