@@ -28,12 +28,12 @@ This repository is shared as part of a double-blind submission. Author identitie
 ---
 
 ## Description
-
-The dataset includes **131 responses (94 valid)** across three stakeholder groups:
+A total of **131 responses** were collected. After excluding incomplete responses, **94 valid responses** representing the **three stakeholder groups** were retained:
 - **Students** (n = 65)
 - **Educators** (n = 25)
 - **Professional developers** (n = 47)
 
+As participants could identify with multiple current and/or former roles, these categories are not mutually exclusive, reflecting the interconnected nature of the computing education ecosystem that motivates our multi-stakeholder perspective.
 Participants responded to Likert-scale items， multiple-choice questions, and open-ended questions regarding GenAI usage frequency, context, perceived benefits and risks, institutional support, and ethical concerns.
 
 Analysis was conducted using **Stata**, using ordered logit model (ologit) and generalized ordered logit model (gologit2) for role-based comparisons across stakeholder groups.
